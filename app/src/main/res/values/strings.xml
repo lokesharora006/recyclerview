@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="lokesh_android_developer">Lokesh Arora</string>
+    <string name="profession">Android Developer</string>
+</resources>
